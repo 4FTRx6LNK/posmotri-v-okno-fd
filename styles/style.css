@@ -208,6 +208,7 @@ ol {
   color: white;
   background-color: transparent;
   appearance: none;
+  width: 225px;
 }
 
 .search-form__textfield::placeholder {
@@ -303,11 +304,6 @@ ol {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 4px;
-}
-
-.content__card-link_current,
-.content__card-link:active {
-  background-color: #545050;
 }
 
 .content__card-link:focus {
